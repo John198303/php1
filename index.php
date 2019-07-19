@@ -28,4 +28,4 @@ $year = date('Y');
  <h1><?php echo $h1; ?></h1>
  <span> <?php echo $year; ?></span> <br>
  </body> 
- </html>
+ < /html>
